@@ -9,3 +9,6 @@
 
  #LAB 3
   Esse código normaliza os valores de um vetor de números de ponto flutuante.
+
+ #LAB 4
+  Esse código imprime um "terminal" com 4 opções. Criar um item, comprar um estoque, vender estoque e sair do programa.
